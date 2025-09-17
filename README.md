@@ -1,7 +1,6 @@
-# Create README.md and requirements.txt based on the extracted dependencies and provide visualization snippets.
-from pathlib import Path
 
-readme_text = """# Biomarkers in Neuronal Synuclein Disease (NSD)
+
+# Biomarkers in Neuronal Synuclein Disease (NSD)
 
 A reproducible notebook-driven analysis exploring potential **biomarkers** for Neuronal Synuclein Disease (NSD). 
 This repo focuses on data prep, model training/evaluation, and clear visualizations (correlations, feature importance, ROC/PR curves, and confusion matrices).
@@ -15,8 +14,6 @@ This repo focuses on data prep, model training/evaluation, and clear visualizati
 - `Biomarkers in Neuronal Synuclein Disease for pdf.html` — HTML formatted for printing/PDF.
 - `SAA_Biospecimen_Analysis_Results.csv` — biospecimen dataset used in the notebook (update this description as needed).
 - `requirements.txt` — pinned Python dependencies to reproduce the environment.
-
-> Tip: Place any figures in a `docs/` or `assets/` folder and reference them in this README (e.g., `![Workflow](docs/workflow.png)`).
 
 ---
 
