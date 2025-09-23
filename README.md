@@ -8,9 +8,7 @@ This repo focuses on data prep, model training/evaluation, and clear visualizati
 ## Contents
 
 - `Biomarkers in Neuronal Synuclein Disease.ipynb` — main analysis notebook.
-- `Biomarkers in Neuronal Synuclein Disease.html` — HTML export of the notebook.
-- `Biomarkers in Neuronal Synuclein Disease for pdf.html` — HTML formatted for printing/PDF.
-- `SAA_Biospecimen_Analysis_Results.csv` — biospecimen dataset used in the notebook (update this description as needed).
+- `SAA_Biospecimen_Analysis_Results.csv` — biospecimen dataset used in the notebook.
 - `requirements.txt` — pinned Python dependencies to reproduce the environment.
 
 ---
@@ -170,20 +168,13 @@ plt.show()
 ```
 Biomarkers_in_NSD/
 ├─ Biomarkers in Neuronal Synuclein Disease.ipynb
-├─ Biomarkers in Neuronal Synuclein Disease.html
-├─ Biomarkers in Neuronal Synuclein Disease for pdf.html
 ├─ SAA_Biospecimen_Analysis_Results.csv
 ├─ requirements.txt
-└─ docs/ or assets/           # (optional) save figures here
+└─ docs/ or assets/ 
 ```
 
 ---
 
-## Contributing
-
-Issues and PRs are welcome: open a discussion for features (e.g., new biomarkers, models, or evaluation methods).
-
----
 
 ## Citation
 
