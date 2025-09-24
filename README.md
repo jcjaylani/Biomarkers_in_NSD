@@ -61,7 +61,7 @@ Or open with **JupyterLab**.
 ## Visualizations (from the notebook)
 
 Below are code snippets used in the notebook to standardize key plots. 
-You can paste these into your own scripts/notebooks if needed.
+You can paste these into your own scripts/notebooks if needed. The graphs are viewable in the separate Visualization section.
 
 ### 1) Correlation heatmap
 ```python
