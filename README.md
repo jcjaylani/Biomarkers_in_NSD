@@ -8,7 +8,10 @@ This repo focuses on data prep, model training/evaluation, and clear visualizati
 ## Contents
 
 - `Biomarkers in Neuronal Synuclein Disease.ipynb` — main analysis notebook.
+- `Conclusion.md` - markdown file to briefly explain results
+- `README` - explaination of the research project 
 - `SAA_Biospecimen_Analysis_Results.csv` — biospecimen dataset used in the notebook.
+- `Visualizations` - graphs created within the notebook displaying results
 - `requirements.txt` — pinned Python dependencies to reproduce the environment.
 
 ---
@@ -163,18 +166,6 @@ plt.show()
   Use it **only on the training set** inside cross-validation to avoid leakage.
 
 ---
-
-## Project Structure
-```
-Biomarkers_in_NSD/
-├─ Biomarkers in Neuronal Synuclein Disease.ipynb
-├─ SAA_Biospecimen_Analysis_Results.csv
-├─ requirements.txt
-└─ docs/ or assets/ 
-```
-
----
-
 
 ## Citation
 
