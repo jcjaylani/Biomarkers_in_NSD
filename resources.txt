@@ -1,5 +1,5 @@
-sklearn # = 1.7.2
-imblearn # = 0.14.0
+sklearn = 1.7.2
+imblearn = 0.14.0
 numpy
 pandas
 matplotlib
